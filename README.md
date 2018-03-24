@@ -5,6 +5,6 @@ Kopieer de inhoud van de uploadmap naar de www root op de server.
 
 #OpenCart 2.3 plugin for PostNL dutch mailbox packages
 
-This module makes it possible to offer sendin small mailbox packages inside The Netherlands
-Copy the file form the upload directory into the www root on your server.
+This module makes it possible to offer sending small mailbox packages inside The Netherlands
+Copy the files form the upload directory into the www root on your server.
 
